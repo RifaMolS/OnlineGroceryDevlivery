@@ -39,10 +39,12 @@ venv/
 env/
 ENV/
 
-# Model Files
+# Model Files (from Grocery_ml)
 *.pkl
 *.pth
 *.h5
+*.model
+*.joblib
 
 # OS and IDE Files
 .DS_Store
